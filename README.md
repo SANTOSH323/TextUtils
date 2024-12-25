@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # My Django TextUtilities
 
 This is a Django project that performs the following functionalities:
@@ -10,3 +11,7 @@ This is a Django project that performs the following functionalities:
 
 ## How to Use
 1. Clone the repository:
+=======
+# django-myproject
+this is textutilies it remove the punctutations marks and also print the email
+>>>>>>> 601f766f86cf368246e512d6fc22e35ca6bbfea7
